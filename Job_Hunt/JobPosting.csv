@@ -1,0 +1,336 @@
+,JobCategory_ID,Job_Title,Company,City,TechHub_ID
+0,0,Software Engineering Manager,Farmer's Fridge,Chicago,2
+1,0,Salesforce – CPQ Solution Architect,Slalom,Chicago,2
+2,0,Software Engineering Manager,OppLoans,Chicago,2
+3,0,Senior .Net Software Engineer – Fullstack,DocuSign,Chicago,2
+4,0,Windows Engineer,Optiver,Chicago,2
+5,0,Senior Engineering Manager,CircleCI,Greater Boston Area,1
+6,0,Software Architect,CrunchTime!,Greater Boston Area,1
+7,0,Lead Data Scientist,Vistaprint,Waltham,1
+8,0,DevOps Engineer,Arcadia,Greater Boston Area,1
+9,0,Senior Software Engineer - IoT,Markforged,Watertown,1
+10,0,Lead Salesforce Engineer,ThousandEyes,Austin,0
+11,0,Software Test Engineer ,Compeat,Austin,0
+12,0,Principal Database Reliability Engineer,Cognite,Austin,0
+13,0,"Senior Full Stack Engineer, Profile & Authenti…",Evernote,Austin,0
+14,0,Big Data Engineer,Cloudflare,Austin,0
+15,0,Sensor Integration Engineer -- Autonomous Vehicles,Outrider,Greater Denver Area,3
+16,0,Electrical/Systems Engineer,AMP Robotics,Greater Boulder Area,3
+17,0,Salesforce Development & Release Supervisor,Pinnacol Assurance,Greater Denver Area,3
+18,0,Lead Architect,Procare Solutions,Greater Denver Area,3
+19,0,Senior Software Engineer - E-Commerce,Gloo,Greater Boulder Area,3
+20,0,API Backend Engineer (NYC or Remote),MANTL,Greater NYC Area,5
+21,0,Engineering Lead (New York),Tempus,Greater NYC Area,5
+22,0,Cross-Platform Mobile Engineer,Nowsta,Greater NYC Area,5
+23,0,"Senior Backend Engineer, Trello",Atlassian,Greater NYC Area,5
+24,0,Senior Full Stack Engineer - Trello,Atlassian,Greater NYC Area,5
+25,0,Software Engineer (Frontend),Second Measure,Peninsula,6
+26,0,Lead Full Stack Engineer,Cisco Meraki,San Francisco,6
+27,0,"Engineering Manager, Compute",DoorDash,San Francisco,6
+28,0,Senior Full Stack Engineer,Cisco Meraki,San Francisco,6
+29,0,Senior Backend Engineer,Cisco Meraki,San Francisco,6
+30,0,Software Engineer - Full Stack (Anti-Abuse),Discord,San Francisco,6
+31,0,Lead Full Stack Engineer,Cisco Meraki,San Francisco,6
+32,0,Senior Software Engineer - Growth,Discord,San Francisco,6
+33,0,Software Engineer (Frontend),Second Measure,Peninsula,6
+34,0,Senior Full Stack Engineer,Cisco Meraki,San Francisco,6
+35,0,Senior Software Engineer - iOS,Discord,San Francisco,6
+36,0,Senior Software Engineer - Infrastructure (Anti-Abuse),Discord,San Francisco,6
+37,0,Senior Software Engineer - Infrastructure,Discord,San Francisco,6
+38,0,Software Engineer (Frontend),Second Measure,Peninsula,6
+39,0,Lead Full Stack Engineer,Cisco Meraki,San Francisco,6
+40,0,Lead Full Stack Engineer,Cisco Meraki,San Francisco,6
+41,0,Site Reliability Engineer,Discord,San Francisco,6
+42,0,Senior Software Engineer - Infrastructure,Discord,San Francisco,6
+43,0,Software Engineer (Frontend),Second Measure,Peninsula,6
+44,0,Senior Full Stack Engineer,Cisco Meraki,San Francisco,6
+45,0,Software Engineer (Frontend),Second Measure,Peninsula,6
+46,0,Software Engineer - Full Stack (Anti-Abuse),Discord,San Francisco,6
+47,0,Site Reliability Engineer,Discord,San Francisco,6
+48,0,Lead Full Stack Engineer,Cisco Meraki,San Francisco,6
+49,0,Senior Full Stack Engineer,Cisco Meraki,San Francisco,6
+50,0,Lead Embedded Software Test Engineer,Pivotal Commware,Kirkland,7
+51,0,Full Stack Software Engineer,Tango Card,Seattle,7
+52,0,Senior Software Engineer,Tango Card,Seattle,7
+53,0,CONVERSATIONAL BOT BUILDER,LivePerson,Seattle,7
+54,0,Senior Software Engineer,Luum,Seattle,7
+55,1,UI Designer,Codal,Chicago,2
+56,1,Technical Software Designer - Chicago,NextCapital,Chicago,2
+57,1,Sr. UX Researcher,Clearcover,Chicago,2
+58,1,Senior Product Designer- Remote,Cameo,Remote,2
+59,1,Senior Product Designer,LogicGate,Chicago,2
+60,1,Senior Visual Designer,Embark Veterinary,Greater Boston Area,1
+61,1,Senior User Experience Designer: Healthcare,Nuance,Greater Boston Area,1
+62,1,Senior Product Designer,Wellframe,Greater Boston Area,1
+63,1,"Manager, User Experience",Acquia,Greater Boston Area,1
+64,1,Product Experience Designer,Markforged,Watertown,1
+65,1,Senior Designer,Atlassian,Austin,0
+66,1,Director of Product Design for Partners Segment,GoDaddy,Austin,0
+67,1,Product Designer- Jira Align,Atlassian,Austin,0
+68,1,Senior Interaction Designer,DISCO,Austin,0
+69,1,Sr. UX Designer,SailPoint,Austin,0
+70,1,Senior UX Designer (Contract),Pie Insurance,Greater Denver Area,3
+71,1,UI Architect,LogRhythm,Greater Boulder Area,3
+72,1,Senior UX Designer - Web Apps,Gloo,Greater Boulder Area,3
+73,1,Interior Designer - Contract (Miami),Havenly,Remote,3
+74,1,Interior Designer- Contract (NYC),Havenly,Remote,3
+75,1,Brand Designer,Betterment,Greater NYC Area,5
+76,1,Director of Product Design,LeafLink,Greater NYC Area,5
+77,1,Product Designer,Mulberry Technology,Greater NYC Area,5
+78,1,Graphic Design Lead,Wingspan,Greater NYC Area,5
+79,1,Design Manager,Frame.io,Greater NYC Area,5
+80,1,Lead Product Designer - Mobile,Rally Health,San Francisco,6
+81,1,"Product Designer, Growth",Grammarly,San Francisco,6
+82,1,Head of Dasher Experience Design,DoorDash,San Francisco,6
+83,1,"Creative Strategist, Presentations (Contract)",Cisco Meraki,San Francisco,6
+84,1,Instructional Designer x2,Cisco Meraki,San Francisco,6
+85,1,Senior Product Designer,Postmates,San Francisco,6
+86,1,Head of Dasher Experience Design,DoorDash,San Francisco,6
+87,1,Principal / Sr UX Designer,Harness,San Francisco,6
+88,1,"Creative Strategist, Presentations (Contract)",Cisco Meraki,San Francisco,6
+89,1,Instructional Designer x2,Cisco Meraki,San Francisco,6
+90,1,Principal/Senior Industrial Designer,Hinge Health,San Francisco,6
+91,1,Senior Product Designer,Discord,San Francisco,6
+92,1,Lead Product Designer - Mobile,Rally Health,San Francisco,6
+93,1,"Creative Strategist, Presentations (Contract)",Cisco Meraki,San Francisco,6
+94,1,Instructional Designer x2,Cisco Meraki,San Francisco,6
+95,1,Principal / Sr UX Designer,Harness,San Francisco,6
+96,1,Senior Motion Designer & Animator,Discord,San Francisco,6
+97,1,Lead Product Designer - Mobile,Rally Health,San Francisco,6
+98,1,"Creative Strategist, Presentations (Contract)",Cisco Meraki,San Francisco,6
+99,1,Instructional Designer x2,Cisco Meraki,San Francisco,6
+100,1,"Creative Strategist, Presentations (Contract)",Cisco Meraki,San Francisco,6
+101,1,Senior Interaction Designer,HouseCanary,San Francisco,6
+102,1,Head of Dasher Experience Design,DoorDash,San Francisco,6
+103,1,Instructional Designer x2,Cisco Meraki,San Francisco,6
+104,1,Senior Product Designer,DoorDash,San Francisco,6
+105,1,"UX Lead, Environment",Unity Technologies,Bellevue,7
+106,1,"Sr. Manager, Process Design & Improvement",Convoy,Seattle,7
+107,1,3D Artist,Mythical Games,Seattle,7
+108,1,Head of Design (Cross),RoundGlass,Bellevue,7
+109,1,UI Visual Designer,System1,Bellevue,7
+110,2,Senior Product Manager,Devbridge,Chicago,2
+111,2,Senior Director of Product,Reverb,Chicago,2
+112,2,"Director, Product Management",Rally Health,Chicago,2
+113,2,Product Manager,Codal,Chicago,2
+114,2,Product & Technology Analyst,Mastery Logistics Systems,Chicago,2
+115,2,"Senior Product Manager, Compute",DigitalOcean,Cambridge,1
+116,2,Senior Technical Product Manager,Threat Stack,Greater Boston Area,1
+117,2,"Product Manager (Newton, MA)",Examity,Newton,1
+118,2,Director of Care Applications,Arcadia,Greater Boston Area,1
+119,2,"Product Manager, Modern Data Platforms",Privitar,Greater Boston Area,1
+120,2,Product Manager - Growth,Self Financial,Austin,0
+121,2,"Product Manager, Training Technology",Atlassian,Austin,0
+122,2,Product Manager,Volusion,Austin,0
+123,2,"Product Manager, InfoSec",Atlassian,Austin,0
+124,2,"Product Manager, Product Integrations",Atlassian,Austin,0
+125,2,Vice President- Product,LogRhythm,Greater Boulder Area,3
+126,2,Product Owner/ Product Manager,Hotel Engine,Greater Denver Area,3
+127,2,"Technical Product Manager, API Integrations",ReCharge,Greater Denver Area,3
+128,2,Product Owner,Gloo,Greater Boulder Area,3
+129,2,Senior Product Manager,JumpCloud,Greater Boulder Area,3
+130,2,"Product Manager, Identity & Integrations",Teachable,Greater NYC Area,5
+131,2,Product Manager,Reonomy,Greater NYC Area,5
+132,2,Associate Product Manager,Imagen Technologies,Greater NYC Area,5
+133,2,Senior Product Manager - Data Platform,Major League Baseball,Greater NYC Area,5
+134,2,"Senior Technical Product Manager, Mobile & CTV",DoubleVerify,Greater NYC Area,5
+135,2,"Senior Product Manager, Platform Experience",Rally Health,San Francisco,6
+136,2,Product Manager,CircleCI,San Francisco,6
+137,2,Director of Product Management,CircleCI,San Francisco,6
+138,2,Director of Product Management - Secure SD-WAN,Cisco Meraki,San Francisco,6
+139,2,Product Manager - API & Developer Platform,Cisco Meraki,San Francisco,6
+140,2,"Product Manager, Growth",HomeLight,San Francisco,6
+141,2,"Senior Director, Product",Recurly,San Francisco,6
+142,2,Staff Product Manager,CircleCI,San Francisco,6
+143,2,Director of Product Management - Secure SD-WAN,Cisco Meraki,San Francisco,6
+144,2,Product Manager - API & Developer Platform,Cisco Meraki,San Francisco,6
+145,2,"Principal Product Manager, Customer Acquisition",Instacart,San Francisco,6
+146,2,Product Manager,Primer,San Francisco,6
+147,2,Product Manager,CircleCI,San Francisco,6
+148,2,Director of Product Management - Secure SD-WAN,Cisco Meraki,San Francisco,6
+149,2,Product Manager - API & Developer Platform,Cisco Meraki,San Francisco,6
+150,2,Director / Senior Product Manager,Harness,San Francisco,6
+151,2,Staff Product Manager,CircleCI,San Francisco,6
+152,2,Product Manager,Primer,San Francisco,6
+153,2,Director of Product Management - Secure SD-WAN,Cisco Meraki,San Francisco,6
+154,2,Product Manager - API & Developer Platform,Cisco Meraki,San Francisco,6
+155,2,Product Manager,DoorDash,San Francisco,6
+156,2,Principal Hardware Product Manager,Hinge Health,San Francisco,6
+157,2,Head of Pay and Time PM,Gusto,San Francisco,6
+158,2,Director of Product Management - Secure SD-WAN,Cisco Meraki,San Francisco,6
+159,2,Product Manager - API & Developer Platform,Cisco Meraki,San Francisco,6
+160,2,Senior Product Manager,System1,Bellevue,7
+161,2,Product Analyst,Assurance,Bellevue,7
+162,2,Principal Product Manager,Transparent Systems,Seattle,7
+163,2,Group Product Manager - Customer Care,Qualtrics,Seattle,7
+164,2,"Senior Product Manager, Body Camera Software",Axon,Seattle,7
+165,3,Integrated Marketing Manager- Enterprise,Cisco Meraki,Chicago,2
+166,3,Digital Strategy Director,"closerlook, inc.",Chicago,2
+167,3,Field Development Manager,Pampered Chef,Chicago,2
+168,3,Senior Product Marketing Manager- Buy-side CLM,DocuSign,Chicago,2
+169,3,Social Media Strategist,Codal,Chicago,2
+170,3,Senior Product Marketing Manager (Applications),Kyruus,Greater Boston Area,1
+171,3,Growth Marketer - Digital Marketing &,Embark Veterinary,Greater Boston Area,1
+172,3,Senior Omni-channel Marketing Specialist,Peapod Digital Labs,Greater Boston Area,1
+173,3,SEO Analyst (Contract),edX,Cambridge,1
+174,3,Partner Marketing Manager,edX,Cambridge,1
+175,3,Community Strategist,Khoros,Austin,0
+176,3,Lifecycle Marketing Manager,Modernize,Austin,0
+177,3,Director of Digital Communications & Brand,Dosh,Austin,0
+178,3,Digital Marketing Manager,Cloudflare,Austin,0
+179,3,Product Marketing Manager,Sana,Austin,0
+180,3,Junior Campaign Manager,AdCellerant,Greater Denver Area,3
+181,3,Display Media Strategist,"Blue Moon Digital, Inc.",Greater Denver Area,3
+182,3,Email Marketing Manager,Pocket Outdoor Media,Greater Boulder Area,3
+183,3,Partner Marketing Lead,Guild Education,Greater Denver Area,3
+184,3,VP of Digital Marketing,AdAction Interactive,Greater Denver Area,3
+185,3,Communications Lead,IEX,Greater NYC Area,5
+186,3,Senior Partner Marketing Manager,AB Tasty,Greater NYC Area,5
+187,3,Marketing Operations and Analytics Manager,Cohley,Greater NYC Area,5
+188,3,Freelance Social Media Manager,Wingspan,Greater NYC Area,5
+189,3,Growth Marketing Lead,Wingspan,Greater NYC Area,5
+190,3,Marketing Operations Manager,Hinge Health,San Francisco,6
+191,3,Content Marketing Manager,Recurly,San Francisco,6
+192,3,Senior Product Marketing Manager,Rally Health,San Francisco,6
+193,3,Audience Marketing Manager - Commercial/GES,Cisco Meraki,San Francisco,6
+194,3,Product Marketing Manager - Switching,Cisco Meraki,San Francisco,6
+195,3,Community Marketing Coordinator,Discord,San Francisco,6
+196,3,"Engagement Marketing Manager, CRM",Instacart,San Francisco,6
+197,3,"Director, Consumer Insights",DoorDash,San Francisco,6
+198,3,Audience Marketing Manager - Commercial/GES,Cisco Meraki,San Francisco,6
+199,3,Product Marketing Manager - Switching,Cisco Meraki,San Francisco,6
+200,3,Marketing Operations Manager,Hinge Health,San Francisco,6
+201,3,Director of Communications,Discord,San Francisco,6
+202,3,Community Marketing Coordinator,Discord,San Francisco,6
+203,3,Audience Marketing Manager - Commercial/GES,Cisco Meraki,San Francisco,6
+204,3,Product Marketing Manager - Switching,Cisco Meraki,San Francisco,6
+205,3,Audience Marketing Manager - Commercial/GES,Cisco Meraki,San Francisco,6
+206,3,Director of Customer Acquisition,HomeLight,San Francisco,6
+207,3,Technical Product Marketing Manager,CircleCI,San Francisco,6
+208,3,Product Marketing Manager - Switching,Cisco Meraki,San Francisco,6
+209,3,"Sr. Marketing Manager, Global Lifecycle Events",Cisco Meraki,San Francisco,6
+210,3,"Product Marketing Lead, Benefits",Gusto,San Francisco,6
+211,3,Director of Communications,Discord,San Francisco,6
+212,3,"Senior Compliance Associate, Marketing",Chime,San Francisco,6
+213,3,Audience Marketing Manager - Commercial/GES,Cisco Meraki,San Francisco,6
+214,3,Product Marketing Manager - Switching,Cisco Meraki,San Francisco,6
+215,3,"Senior Marketing Manager, Pharmaceutical Solutions",Navigating Cancer,Seattle,7
+216,3,Senior Marketing Manager,Ekata,Seattle,7
+217,3,Senior Product Marketing Manager,Axon,Seattle,7
+218,3,"Marketing Operations Specialist (Remote, Contractor)",Databricks,Seattle,7
+219,3,"Senior Content Marketing Manager, Cloud Services",Unity Technologies,Bellevue,7
+220,4,Accounting Associate,Milyli,Chicago,2
+221,4,Controller,Home Chef,Chicago,2
+222,4,Head of Accounting,Clearcover,Chicago,2
+223,4,"Director, Internal Audit",OppLoans,Chicago,2
+224,4,Fraud Operations Manager,M1 Finance,Chicago,2
+225,4,Senior Revenue Accountant,Nuance,Greater Boston Area,1
+226,4,Staff Accountant,Examity,Newton,1
+227,4,Revenue Manager,Fuze,Greater Boston Area,1
+228,4,Venture Capital Operations Analyst,MassMutual,Greater Boston Area,1
+229,4,Staff Accountant,Indigo,Greater Boston Area,1
+230,4,Escrow Assistant,Orchard,Austin,0
+231,4,Accounts Receivable Manager,Arrive Logistics,Austin,0
+232,4,Accounting Manager,Literati,Austin,0
+233,4,Accounts Receivable/Payable Specialist,Homeward,Austin,0
+234,4,Procurement Analyst,Cloudflare,Austin,0
+235,4,Accounts Payable Specialist,FRONTSTEPS,Greater Denver Area,3
+236,4,Director of Finance,Bonusly,Greater Boulder Area,3
+237,4,Accounts Receivable Specialist,Hotel Engine,Greater Denver Area,3
+238,4,Indirect Tax Manager,Evolve Vacation Rental,Greater Denver Area,3
+239,4,Staff Accountant,Sovrn,Greater Boulder Area,3
+240,4,FP&A Director,Frame.io,Greater NYC Area,5
+241,4,Senior Accountant,MealPal,Greater NYC Area,5
+242,4,FP&A Manager,Betterment,Greater NYC Area,5
+243,4,"Director, Financial Planning and Analysis",The Trade Desk,Greater NYC Area,5
+244,4,Revenue Operations Manager,Dashlane,Greater NYC Area,5
+245,4,Staff Accountant,Postmates,San Francisco,6
+246,4,Sr. Financial Analyst,Glu Mobile,San Francisco,6
+247,4,"Director, Internal Audit",Unity Technologies,San Francisco,6
+248,4,"Manager, Pricing & Promotions",Cisco Meraki,San Francisco,6
+249,4,"Director, Revenue Growth",DoorDash,San Francisco,6
+250,4,Billing & AR Specialist,Recurly,San Francisco,6
+251,4,Transaction Coordinator - Cash Close,HomeLight,San Francisco,6
+252,4,Staff Accountant,Postmates,San Francisco,6
+253,4,"Manager, Pricing & Promotions",Cisco Meraki,San Francisco,6
+254,4,"Director, Revenue Growth",DoorDash,San Francisco,6
+255,4,Sr. Global Transaction Manager,Snap Inc.,San Francisco,6
+256,4,Transaction Coordinator - Cash Close,HomeLight,San Francisco,6
+257,4,Staff Accountant,Postmates,San Francisco,6
+258,4,"Manager, Pricing & Promotions",Cisco Meraki,San Francisco,6
+259,4,"Director, Revenue Growth",DoorDash,San Francisco,6
+260,4,Revenue Operations Analyst,Grammarly,San Francisco,6
+261,4,"Manager, Pricing & Promotions",Cisco Meraki,San Francisco,6
+262,4,"Director, Revenue Growth",DoorDash,San Francisco,6
+263,4,Indirect Tax Manager,DoorDash,San Francisco,6
+264,4,Indirect Tax Analyst,DoorDash,San Francisco,6
+265,4,Senior Finance Manager - Revenue Analysis,Assurance,Bellevue,7
+266,4,Sr. Global Transaction Manager,Snap Inc.,Seattle,7
+267,4,"Director, Revenue Strategy",Auth0,Bellevue,7
+268,4,Accounts Payable Specialist,Unity Technologies,Bellevue,7
+269,4,Manager of Revenue,Axon,Seattle,7
+270,5,Azure Solutions Engineer,Maven Wave,Chicago,2
+271,5,Business Development Manager,NextCapital,Chicago,2
+272,5,Senior Customer Service Manager,Supernova,Chicago,2
+273,5,Inside Sales Representative,HomeAdvisor,Chicago,2
+274,5,"Account Manager, Strategic Alliances",Vibes,Chicago,2
+275,5,Sales Systems Administrator,Catalant Technologies,Greater Boston Area,1
+276,5,Cyber Security Pre Sales Engineer,Immersive Labs,Greater Boston Area,1
+277,5,Senior Enterprise Account Executive,Mirakl,Somerville,1
+278,5,Enterprise Account Executive,Thought Industries,Greater Boston Area,1
+279,5,Business Development Representative,Thought Industries,Greater Boston Area,1
+280,5,Account Manager,ePayPolicy,Austin,0
+281,5,Solutions Consultant (Germany),Medallia,Remote,0
+282,5,SLED Account Development Representative-Duo,Duo Security,Austin,0
+283,5,Solutions Architect,LogicMonitor,Austin,0
+284,5,"Solutions Engineer, Commercial Sales (Austin, TX)",ThousandEyes,Austin,0
+285,5,Account Executive,Snowflake,Remote,3
+286,5,Account Manager,"Apostrophe, Inc.",Greater Denver Area,3
+287,5,Sales Development Representative (SDR),PlayerLync,Greater Denver Area,3
+288,5,Technical Account Manager,Nylas,Greater Denver Area,3
+289,5,Sales Representative,"AptAmigo, Inc",Greater Denver Area,3
+290,5,Strategic Partnerships - Cloud,IEX,Greater NYC Area,5
+291,5,Financial Services Sales Executive,AlphaSense,Greater NYC Area,5
+292,5,Provider Partnerships Contracting Associate (,Covera Health,Greater NYC Area,5
+293,5,"Strategic Account Manager, Jira Align",Atlassian,Greater NYC Area,5
+294,5,Business Development Director – Partnerships,Unqork,Greater NYC Area,5
+295,6,Sr. Business Intelligence Engineer,Alliant Credit Union,Chicago,2
+296,6,"Senior Manager, Data Engineering",Integral Ad Science,Chicago,2
+297,6,Senior Big Data Engineer- Data Warehouse,Integral Ad Science,Chicago,2
+298,6,Cell Culture Research Associate (11 am – 7 pm),Tempus,Chicago,2
+299,6,"Senior Database Engineer, SQL/Python",DRW,Chicago,2
+300,6,Machine Learning Engineer,Kensho Technologies,Cambridge,1
+301,6,Senior Cloud DevOps Engineer,Agero + Swoop,Greater Boston Area,1
+302,6,"Business Intelligence Analyst, Customer Experience",Drizly,Greater Boston Area,1
+303,6,Software Engineer in Big Data Integration,Arcadia,Greater Boston Area,1
+304,6,Data Integration Engineer,Arcadia,Greater Boston Area,1
+305,6,Database Administrator,LeanDNA,Austin,0
+306,6,"Manager, Data Engineering",A Cloud Guru,Austin,0
+307,6,NLP Engineer,Iodine Software,Austin,0
+308,6,Big Data Engineer,Cloudflare,Austin,0
+309,6,Senior Data Engineer,Bestow,Austin,0
+310,6,Senior Data Analyst for Product Growth,CircleCI,Greater Denver Area,3
+311,6,SQL Server DBA,Procare Solutions,Greater Denver Area,3
+312,6,Automotive Claims Adjuster,Fluid Truck Share,Greater Denver Area,3
+313,6,Senior Business Intelligence Analyst,Alto Pharmacy,Greater Denver Area,3
+314,6,Portfolio Management Analyst,Wunder Capital,Greater Boulder Area,3
+315,6,Head of Data Science,Saturn Cloud,Remote,5
+316,6,Junior Developer,DriveWealth,Greater NYC Area,5
+317,6,Senior Data Scientist,Hopper,Greater NYC Area,5
+318,6,Manager of Client Strategy and Analytics,Bliss Point Media,Greater NYC Area,5
+319,6,Software Engineer - Data Engineering,Addepar,Greater NYC Area,5
+320,6,Senior/Principal Data Engineer (Data Insights),Rally Health,San Francisco,6
+321,6,Data Architect,iManage,San Francisco,6
+322,6,Senior Software Engineer - Machine Learning,Discord,San Francisco,6
+323,6,Senior Data Analyst,Cisco Meraki,San Francisco,6
+324,6,Channel Operations Specialist – Partner Support,Cisco Meraki,San Francisco,6
+325,6,"Engineering Manager, Data Products",Discord,San Francisco,6
+326,6,Senior Data Analyst,Cisco Meraki,San Francisco,6
+327,6,Senior Software Engineer - Machine Learning,Discord,San Francisco,6
+328,6,Channel Operations Specialist – Partner Support,Cisco Meraki,San Francisco,6
+329,6,"Architect, AI Infrastructure",Cisco Meraki,San Francisco,6
+330,6,"Software Engineer, Machine Learning",Postmates Inc.,Bellevue,7
+331,6,"Data Scientist, Relevancy Ranking Algorithms - 6 Month Contract Position",Getty Images,Seattle,7
+332,6,Program Effectiveness Manager,Outreach,Seattle,7
+333,6,Back End Software Engineer,98point6,Seattle,7
+334,6,Senior Data Engineer,98point6,Seattle,7
